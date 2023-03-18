@@ -28,6 +28,18 @@ jupyter notebook
 
 
 
+可视化库
+
+```
+pip install pyecharts matplotlib seaborn
+```
+
+开发工具
+
+```
+Jupyter Notebook
+```
+
 
 
 
@@ -44,4 +56,23 @@ jupyter notebook
 |  08  | 用reset index将Series转换成df.ipynb |      |
 |  09  | 使用字典创建DataFrame.ipynb         |      |
 |  10  | 设置DataFrame的索引列.ipynb         |      |
+
+
+
+
+## 数据清洗
+
+* 缺失值
+* isnull
+* dropna
+* fillna
+* replace
+
+
+
+
+
+```
+
+```
 
